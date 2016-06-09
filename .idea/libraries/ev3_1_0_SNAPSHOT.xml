@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ev3-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/ev3-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/target/ev3-1.0-SNAPSHOT.jar!/" recursive="false" />
+  </library>
+</component>
